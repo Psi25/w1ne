@@ -1,3 +1,4 @@
 test
 
+cd "C:\Users\Name\Desktop\Blender Install\stable\blender-4.5.0-lts.8cb6b388974a\4.5\python\bin"
 python C:\Users\Name\source\repos\w1ne\scripts\setup_blender_addon.py --scripts-folder C:\Users\Name\Desktop\BlenderScriptsFolder
